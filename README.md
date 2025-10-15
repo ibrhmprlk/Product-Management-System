@@ -12,7 +12,7 @@ The application enables businesses to professionally manage critical processes s
 
 ---
 
-📦 **Kurulum dosyası (.exe) / Installation File (.exe):** [İndir / Download](https://drive.google.com/file/d/1BgPmEm_lwt1OvcUnu09vq-Ovmb0ZnyWC/view?usp=drive_link)
+📦 **Kurulum dosyası (.exe) / Installation File (.exe):** [İndir / Download](https://drive.google.com/file/d/19rRr0mYWm9dvcExTrvcMXUR_bdvYipTv/view?usp=drive_link)
 
 ---
 
