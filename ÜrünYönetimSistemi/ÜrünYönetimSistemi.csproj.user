@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\ibrah\Desktop\Uygulama Geliştirme Projelerim\ÜrünYönetimSistemi\ÜrünYönetimSistemi\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Ayarlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Barkod Yazdır.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DövizKurları.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Fiyat Gör.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FiyatTeklifi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmverilerAktarılıyor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frmYukleniyor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GelirGiderGrafik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kasa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Kullanicilar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriBorcListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriIade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriSecim.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MusteriBorcDetayi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Müşteriler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Raporlar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Satış İşlemleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Taksitlendirme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TaksitOdeme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Toplu Ürün Sil.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Toptanci.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToptanciBorcListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToptanciHesapDetayi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ToptancıİadeEdilecekÜrünler.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UrunDetayı.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UrunIadeAl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UrunIadeEt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ürün Girişi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
