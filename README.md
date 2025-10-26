@@ -16,17 +16,77 @@ The application enables businesses to professionally manage critical processes s
 
 ---
 
+---
+
 ## 🖼️ Ekran Görüntüleri / Screenshots
 
 ### Ana Ekran / Main Screen
-![Ana Ekran](ÜrünYönetimSistemiIMG/KullancıEkranı.png)
+![Ana Sayfa](Ürün_Yönetim_Sistemi_IMG/Ana_Sayfa.png)
 
-### Stok ve Ürün Yönetimi / Inventory & Product Management
-![Stok Yönetimi](images/AnaSayfa.png) ![Ürün Listesi](images/urun_listesi.png)
+### Ayarlar / Settings
+![Ayarlar](Ürün_Yönetim_Sistemi_IMG/Ayarlar.png)
 
-### Satış Takibi ve Fiş Basımı / Sales Tracking & Receipt Printing
-![Satış Takibi](images/satis_takibi.png) ![Fiş Basımı](images/fis_basimi.png)
+### Barkod Yazdırma / Barcode Printing
+![Barkod Yazdır](Ürün_Yönetim_Sistemi_IMG/Barkod_Yazdır.png)
 
-### Raporlama ve Finansal Analiz / Reporting & Financial Analysis
-![Raporlama](images/raporlama.png) ![Finansal Analiz](images/finansal_analiz.png)
+### Fiyat Görüntüleme / Price View
+![Fiyat Gör](Ürün_Yönetim_Sistemi_IMG/Fiyat_Gör.png)
+
+### Fiyat Teklifi / Price Offer
+![Fiyat Teklifi](Ürün_Yönetim_Sistemi_IMG/Fiyat_Teklifi.png)
+
+### Kasa / Cash Register
+![Kasa](Ürün_Yönetim_Sistemi_IMG/Kasa.png)
+
+### Kullanıcı Girişi / User Login
+![Kullanıcı Girişi](Ürün_Yönetim_Sistemi_IMG/Kullanıcı_Girişi.png)
+
+### Kullanıcılar / Users
+![Kullanıcılar](Ürün_Yönetim_Sistemi_IMG/Kullanıcılar.png)
+
+### Müşteri Borç Detayı / Customer Debt Detail
+![Müşteri Borç Detayı](Ürün_Yönetim_Sistemi_IMG/Müşteri_Borç_Detayı.png)
+
+### Müşteri Borç Listesi / Customer Debt List
+![Müşteri Borç Listesi](Ürün_Yönetim_Sistemi_IMG/Müşteri_Borç_Listesi.png)
+
+### Müşteriden İade Al / Return From Customer
+![Müşteriden İade Al](Ürün_Yönetim_Sistemi_IMG/Müşteriden_İade_al.png)
+
+### Müşteriler / Customers
+![Müşteriler](Ürün_Yönetim_Sistemi_IMG/Müşteriler.png)
+
+### Raporlar / Reports
+![Raporlar](Ürün_Yönetim_Sistemi_IMG/Raporlar.png)
+
+### Satış İşlemleri / Sales Operations
+![Satış İşlemleri](Ürün_Yönetim_Sistemi_IMG/Satış_İşlemleri.png)
+
+### Toplu Ürün Sil / Bulk Delete Products
+![Toplu Ürün Sil](Ürün_Yönetim_Sistemi_IMG/Toplu_Ürün_Sil.png)
+
+### Toptancı Borç Listesi / Supplier Debt List
+![Toptancı Borç Listesi](Ürün_Yönetim_Sistemi_IMG/Toptancı_Borç_Listesi.png)
+
+### Toptancı Hesap Detayı / Supplier Account Detail
+![Toptancı Hesap Detayı](Ürün_Yönetim_Sistemi_IMG/Toptancı_Hesap_Detayı.png)
+
+### Toptancılar / Suppliers
+![Toptancılar](Ürün_Yönetim_Sistemi_IMG/Toptancılar.png)
+
+### Toptancıya Ürün İade Et / Return Product To Supplier
+![Toptancıya Ürün İade Et](Ürün_Yönetim_Sistemi_IMG/Toptancıya_Ürün_İade_Et.png)
+
+### Ürün Detayı / Product Detail
+![Ürün Detayı](Ürün_Yönetim_Sistemi_IMG/Ürün_Detayı.png)
+
+### Ürün İade Al / Receive Product Return
+![Ürün İade Al](Ürün_Yönetim_Sistemi_IMG/Ürün_İade_Al.png)
+
+### Ürün İade Et / Return Product
+![Ürün İade Et](Ürün_Yönetim_Sistemi_IMG/Ürün_İade_Et.png)
+
+### Ürün İşlemleri / Product Operations
+![Ürün İşlemleri](Ürün_Yönetim_Sistemi_IMG/Ürün_İşlemleri.png)
+
 
