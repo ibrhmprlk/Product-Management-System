@@ -19,7 +19,7 @@ The application enables businesses to professionally manage critical processes s
 ## 🖼️ Ekran Görüntüleri / Screenshots
 
 ### Ana Ekran / Main Screen
-![Ana Ekran](images/KullancıEkranı.png)
+![Ana Ekran](ÜrünYönetimSistemiIMG/KullancıEkranı.png)
 
 ### Stok ve Ürün Yönetimi / Inventory & Product Management
 ![Stok Yönetimi](images/AnaSayfa.png) ![Ürün Listesi](images/urun_listesi.png)
