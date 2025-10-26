@@ -1,118 +1,90 @@
-<!DOCTYPE html>
-<html lang="tr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ürün Yönetim Sistemi</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 0;
-            padding: 0;
-            background: #f5f5f5;
-        }
-        header {
-            background: #4CAF50;
-            color: white;
-            padding: 1rem;
-            text-align: center;
-        }
-        main {
-            max-width: 1200px;
-            margin: auto;
-            padding: 2rem;
-        }
-        h1, h2, h3 {
-            color: #333;
-        }
-        a.button {
-            display: inline-block;
-            padding: 0.5rem 1rem;
-            background: #4CAF50;
-            color: white;
-            text-decoration: none;
-            border-radius: 5px;
-            margin-bottom: 1rem;
-        }
-        section {
-            margin-bottom: 2rem;
-        }
-        .screenshots {
-            display: grid;
-            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-            gap: 1rem;
-        }
-        .screenshots figure {
-            background: white;
-            padding: 0.5rem;
-            border-radius: 5px;
-            text-align: center;
-            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-        }
-        .screenshots img {
-            max-width: 100%;
-            border-radius: 5px;
-        }
-        footer {
-            text-align: center;
-            padding: 1rem;
-            background: #333;
-            color: white;
-        }
-    </style>
-</head>
-<body>
-    <header>
-        <h1>Ürün Yönetim Sistemi / Product Management System</h1>
-    </header>
-    <main>
-        <section>
-            <p>
-                <strong>Ürün Yönetim Sistemi</strong>, C# ve Access tabanlı kapsamlı bir işletme yönetim yazılımıdır. 
-                Sistem, stok yönetimi, satış takibi, finansal analiz ve raporlama süreçlerini tek bir platformda birleştirir.
-            </p>
-            <p>
-                <strong>Product Management System</strong> is a comprehensive business management software developed in C# with an Access database.
-            </p>
-            <a class="button" href="https://drive.google.com/file/d/1cAoHV6GR8eTbx1QWRXVKFuZVp0RTCMYH/view?usp=drive_link" target="_blank">
-                İndir / Download
-            </a>
-        </section>
+# Ürün Yönetim Sistemi / Product Management System
 
-        <section>
-            <h2>Ekran Görüntüleri / Screenshots</h2>
-            <div class="screenshots">
-                <figure>
-                    <img src="Ürün_Yönetim_Sistemi_IMG/Ana_Sayfa.png" alt="Ana Sayfa">
-                    <figcaption>Ana Ekran / Main Screen</figcaption>
-                </figure>
-                <figure>
-                    <img src="Ürün_Yönetim_Sistemi_IMG/Ayarlar.png" alt="Ayarlar">
-                    <figcaption>Ayarlar / Settings</figcaption>
-                </figure>
-                <figure>
-                    <img src="Ürün_Yönetim_Sistemi_IMG/Barkod_Yazdır.png" alt="Barkod Yazdır">
-                    <figcaption>Barkod Yazdırma / Barcode Printing</figcaption>
-                </figure>
-                <figure>
-                    <img src="Ürün_Yönetim_Sistemi_IMG/Fiyat_Gör.png" alt="Fiyat Gör">
-                    <figcaption>Fiyat Görüntüleme / Price View</figcaption>
-                </figure>
-                <figure>
-                    <img src="Ürün_Yönetim_Sistemi_IMG/Fiyat_Teklifi.png" alt="Fiyat Teklifi">
-                    <figcaption>Fiyat Teklifi / Price Offer</figcaption>
-                </figure>
-                <figure>
-                    <img src="Ürün_Yönetim_Sistemi_IMG/Kasa.png" alt="Kasa">
-                    <figcaption>Kasa / Cash Register</figcaption>
-                </figure>
-                <!-- Dilersen diğer ekran görüntülerini aynı şekilde ekleyebilirsin -->
-            </div>
-        </section>
-    </main>
-    <footer>
-        &copy; 2025 İbrahim PARLAK
-    </footer>
-</body>
-</html>
+**Ürün Yönetim Sistemi**, C# ve Access tabanlı kapsamlı bir işletme yönetim yazılımıdır. Sistem, stok yönetimi, satış takibi, finansal analiz ve raporlama süreçlerini tek bir platformda birleştirerek, işletmelere verimli ve güvenilir bir yönetim deneyimi sunar.  
+
+**Product Management System** is a comprehensive business management software developed in C# with an Access database. The system integrates inventory management, sales tracking, financial analysis, and reporting processes into a single platform, providing businesses with an efficient and reliable management experience.
+
+---
+
+Uygulama, bilgisayar tabanlı satış ve ürün yönetimi ile, işletmelerin **fiş basımı (termal yazıcı desteği), stok kontrolü, barkod oluşturma, Excel entegrasyonu, PDF raporlama ve finansal analiz** gibi kritik süreçlerini profesyonel bir şekilde yönetmesini sağlar. Ayrıca, uygulama **kullanıcı yönetimi, TC Merkez Bankası’na göre güncel döviz kurları takibi, iade işlemleri ve veri yedekleme** gibi gelişmiş özelliklerle işletme yönetimini tam kapsamlı ve güvenli hale getirir.  
+
+The application enables businesses to professionally manage critical processes such as **receipt printing (with thermal printer support), inventory control, barcode generation, Excel integration, PDF reporting, and financial analysis**. Additionally, the software offers advanced features including **user management, real-time exchange rate tracking based on the Central Bank of Turkey, return handling, and data backup**, making business management fully comprehensive and secure.
+
+---
+
+📦 **Kurulum dosyası (.exe) / Installation File (.exe):** [İndir / Download](https://drive.google.com/file/d/1cAoHV6GR8eTbx1QWRXVKFuZVp0RTCMYH/view?usp=drive_link)
+
+---
+
+## 🖼️ Ekran Görüntüleri / Screenshots
+
+### Ana Ekran / Main Screen
+![Ana Sayfa](Ürün_Yönetim_Sistemi_IMG/Ana_Sayfa.png)
+
+### Ayarlar / Settings
+![Ayarlar](Ürün_Yönetim_Sistemi_IMG/Ayarlar.png)
+
+### Barkod Yazdırma / Barcode Printing
+![Barkod Yazdır](Ürün_Yönetim_Sistemi_IMG/Barkod_Yazdır.png)
+
+### Fiyat Görüntüleme / Price View
+![Fiyat Gör](Ürün_Yönetim_Sistemi_IMG/Fiyat_Gör.png)
+
+### Fiyat Teklifi / Price Offer
+![Fiyat Teklifi](Ürün_Yönetim_Sistemi_IMG/Fiyat_Teklifi.png)
+
+### Kasa / Cash Register
+![Kasa](Ürün_Yönetim_Sistemi_IMG/Kasa.png)
+
+### Kullanıcı Girişi / User Login
+![Kullanıcı Girişi](Ürün_Yönetim_Sistemi_IMG/Kullanıcı_Girişi.png)
+
+### Kullanıcılar / Users
+![Kullanıcılar](Ürün_Yönetim_Sistemi_IMG/Kullanıcılar.png)
+
+### Müşteri Borç Detayı / Customer Debt Detail
+![Müşteri Borç Detayı](Ürün_Yönetim_Sistemi_IMG/Müşteri_Borç_Detayı.png)
+
+### Müşteri Borç Listesi / Customer Debt List
+![Müşteri Borç Listesi](Ürün_Yönetim_Sistemi_IMG/Müşteri_Borç_Listesi.png)
+
+### Müşteriden İade Al / Return From Customer
+![Müşteriden İade Al](Ürün_Yönetim_Sistemi_IMG/Müşteriden_İade_al.png)
+
+### Müşteriler / Customers
+![Müşteriler](Ürün_Yönetim_Sistemi_IMG/Müşteriler.png)
+
+### Raporlar / Reports
+![Raporlar](Ürün_Yönetim_Sistemi_IMG/Raporlar.png)
+
+### Satış İşlemleri / Sales Operations
+![Satış İşlemleri](Ürün_Yönetim_Sistemi_IMG/Satış_İşlemleri.png)
+
+### Toplu Ürün Sil / Bulk Delete Products
+![Toplu Ürün Sil](Ürün_Yönetim_Sistemi_IMG/Toplu_Ürün_Sil.png)
+
+### Toptancı Borç Listesi / Supplier Debt List
+![Toptancı Borç Listesi](Ürün_Yönetim_Sistemi_IMG/Toptancı_Borç_Listesi.png)
+
+### Toptancı Hesap Detayı / Supplier Account Detail
+![Toptancı Hesap Detayı](Ürün_Yönetim_Sistemi_IMG/Toptancı_Hesap_Detayı.png)
+
+### Toptancılar / Suppliers
+![Toptancılar](Ürün_Yönetim_Sistemi_IMG/Toptancılar.png)
+
+### Toptancıya Ürün İade Et / Return Product To Supplier
+![Toptancıya Ürün İade Et](Ürün_Yönetim_Sistemi_IMG/Toptancıya_Ürün_İade_Et.png)
+
+### Ürün Detayı / Product Detail
+![Ürün Detayı](Ürün_Yönetim_Sistemi_IMG/Ürün_Detayı.png)
+
+### Ürün İade Al / Receive Product Return
+![Ürün İade Al](Ürün_Yönetim_Sistemi_IMG/Ürün_İade_Al.png)
+
+### Ürün İade Et / Return Product
+![Ürün İade Et](Ürün_Yönetim_Sistemi_IMG/Ürün_İade_Et.png)
+
+### Ürün İşlemleri / Product Operations
+![Ürün İşlemleri](Ürün_Yönetim_Sistemi_IMG/Ürün_İşlemleri.png)
+
+ direk şu ımg görmem için kod yazsana yani bu repoyu biraz siteye benzetebilir misin kod yazarek 
