@@ -14,5 +14,19 @@ The application enables businesses to professionally manage critical processes s
 
 📦 **Kurulum dosyası (.exe) / Installation File (.exe):** [İndir / Download](https://drive.google.com/file/d/1cAoHV6GR8eTbx1QWRXVKFuZVp0RTCMYH/view?usp=drive_link)
 
+---
 
+## 🖼️ Ekran Görüntüleri / Screenshots
+
+### Ana Ekran / Main Screen
+![Ana Ekran](images/KullancıEkranı.png)
+
+### Stok ve Ürün Yönetimi / Inventory & Product Management
+![Stok Yönetimi](images/AnaSayfa.png) ![Ürün Listesi](images/urun_listesi.png)
+
+### Satış Takibi ve Fiş Basımı / Sales Tracking & Receipt Printing
+![Satış Takibi](images/satis_takibi.png) ![Fiş Basımı](images/fis_basimi.png)
+
+### Raporlama ve Finansal Analiz / Reporting & Financial Analysis
+![Raporlama](images/raporlama.png) ![Finansal Analiz](images/finansal_analiz.png)
 
