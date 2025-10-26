@@ -16,8 +16,6 @@ The application enables businesses to professionally manage critical processes s
 
 ---
 
----
-
 ## 🖼️ Ekran Görüntüleri / Screenshots
 
 ### Ana Ekran / Main Screen
