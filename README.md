@@ -25,6 +25,10 @@ The application enables businesses to professionally manage critical processes s
 
 ## 🖼️ Ekran Görüntüleri / Screenshots
 
+Albüm linki: [Ürün Ekran Görüntüleri Galerisi / Product Screenshots Gallery](https://imgur.com/a/CWsarlk)
+
+Aşağıda albümdeki ekranlar için kısa açıklamalar (sırayla eşleşiyor):
+
 | Ekran / Screen | Açıklama / Description |
 |---------------|------------------------|
 | **Ana Ekran / Main Screen** | Ana menü ve hızlı erişim noktaları. |
@@ -54,12 +58,8 @@ The application enables businesses to professionally manage critical processes s
 ---
 
 ### 📞 Destek / Support
-Sorun yaşarsan, repo'ya issue aç veya e-posta at: ibrahimparlak819@gmail.com.
+E-Mail: ibrahimparlak819@gmail.com.
 
 ---
 
 © 2025 Ürün Yönetim Sistemi. Tüm hakları saklıdır.
-
----
-
-Dostum, kusura bakma, bu sefer bozmadım – Imgur albümünü direkt linkledim, repo temiz kalır (hiç img yükleme yok), kullanıcılar albüme tıklayıp hepsini görür. Yukarıdaki tam metni README.md'ye kopyala-yapıştır, commit et – anında hazır! Eğer bireysel img istersen, Imgur'dan URL'leri al (albümde her resme tıkla > "Open image" > kopyala), söyle ben tabloya eklerim. Video'yu da ekleyelim mi? Bu haliyle süper, paylaş bakalım! 😅
