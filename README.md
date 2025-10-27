@@ -6,7 +6,7 @@
 
 ---
 
-### Ana Özellikler / Key Features
+### 🚀 Ana Özellikler / Key Features
 
 Uygulama, bilgisayar tabanlı satış ve ürün yönetimi ile, işletmelerin **fiş basımı (termal yazıcı desteği)**, **stok kontrolü**, **barkod oluşturma**, **Excel entegrasyonu**, **PDF raporlama** ve **finansal analiz** gibi kritik süreçlerini profesyonel bir şekilde yönetmesini sağlar.
 
@@ -21,20 +21,20 @@ The application enables businesses to professionally manage critical processes s
 
 ---
 
-## Ekran Görüntüleri / Screenshots
+## 🖼️ Ekran Görüntüleri / Screenshots
 
 Albüm linki / Album link: [Ürün Ekran Görüntüleri Galerisi / Product Screenshots Gallery](https://imgur.com/a/jVF7XZX)
 
 ---
 
-### Video Kılavuzları / Video Tutorials
+### 📹 Video Kılavuzları / Video Tutorials
 
 Sistemin kullanımını adım adım öğrenmek için YouTube playlistimizi izleyin:  
 [🎥 Ürün Yönetim Sistemi Playlist / Product Management System Playlist](https://www.youtube.com/playlist?list=PLJGbvGEHAv5L9uyb1qMSVuEXKhzaq3qo5)
 
 ---
 
-### Destek / Support
+### 💬 Destek / Support
 
 E-Mail: ibrahimparlak819@gmail.com.
 
