@@ -29,7 +29,7 @@ Albüm linki / Album link: [Ürün Ekran Görüntüleri Galerisi / Product Scree
 
 ### 📹 Video Kılavuzları / Video Tutorials
 
-Sistemin kullanımını adım adım öğrenmek için YouTube playlistimizi izleyin: 
+Sistemin kullanımını adım adım öğrenmek için YouTube playlistimizi izleyin:  
 [🎥 Ürün Yönetim Sistemi Playlist / Product Management System Playlist](https://www.youtube.com/playlist?list=PLJGbvGEHAv5L9uyb1qMSVuEXKhzaq3qo5)
 
 ---
