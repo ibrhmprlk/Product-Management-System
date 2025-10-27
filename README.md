@@ -17,7 +17,7 @@ The application enables businesses to professionally manage critical processes s
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1cAoHV6GR8eTbx1QWRXVKFuZVp0RTCMYH/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/İndir-Download-brightgreen?style=for-the-badge&logo=google-drive" alt="Download">
+    <img src="https://img.shields.io/badge/%C4%B0ndir-Download-brightgreen?style=for-the-badge&logo=google-drive" alt="Download">
   </a>
 </div>
 
@@ -31,27 +31,27 @@ Aşağıda uygulamanın çeşitli ekran görüntüleri yer alıyor. Her biri iç
 |---------------|------------------------|-----------------|
 | **Ana Ekran / Main Screen** | Ana menü ve hızlı erişim noktaları. | ![Ana Sayfa](Ana_Sayfa.png) |
 | **Ayarlar / Settings** | Sistem ayarları ve yapılandırma seçenekleri. | ![Ayarlar](Ayarlar.png) |
-| **Barkod Yazdırma / Barcode Printing** | Barkod etiketleri oluşturma ve yazdırma. | ![Barkod Yazdır](Barkod_Yazd%C4%B1r.png) |
-| **Fiyat Görüntüleme / Price View** | Ürün fiyatlarını listeleyen ekran. | ![Fiyat Gör](Fiyat_G%C3%B6r.png) |
+| **Barkod Yazdırma / Barcode Printing** | Barkod etiketleri oluşturma ve yazdırma. | ![Barkod Yazdır](Barkod_Yazdır.png) |
+| **Fiyat Görüntüleme / Price View** | Ürün fiyatlarını listeleyen ekran. | ![Fiyat Gör](Fiyat_Gör.png) |
 | **Fiyat Teklifi / Price Offer** | Müşterilere teklif hazırlama aracı. | ![Fiyat Teklifi](Fiyat_Teklifi.png) |
 | **Kasa / Cash Register** | Satış ve ödeme işlemleri için kasa ekranı. | ![Kasa](Kasa.png) |
-| **Kullanıcı Girişi / User Login** | Güvenli giriş paneli. | ![Kullanıcı Girişi](Kullan%C4%B1c%C4%B1_Giri%C5%9Fi.png) |
-| **Kullanıcılar / Users** | Kullanıcı yönetimi ve yetki atama. | ![Kullanıcılar](Kullan%C4%B1c%C4%B1lar.png) |
-| **Müşteri Borç Detayı / Customer Debt Detail** | Belirli bir müşterinin borç detayları. | ![Müşteri Borç Detayı](M%C3%BC%C5%9Fteri_Bor%C3%A7_Detay%C4%B1.png) |
-| **Müşteri Borç Listesi / Customer Debt List** | Tüm müşteri borçlarının listesi. | ![Müşteri Borç Listesi](M%C3%BC%C5%9Fteri_Bor%C3%A7_Listesi.png) |
-| **Müşteriden İade Al / Return From Customer** | Müşteri iade işlemleri. | ![Müşteriden İade Al](M%C3%BC%C5%9Fteriden_%C4%B0ade_al.png) |
-| **Müşteriler / Customers** | Müşteri veritabanı yönetimi. | ![Müşteriler](M%C3%BC%C5%9Fteriler.png) |
+| **Kullanıcı Girişi / User Login** | Güvenli giriş paneli. | ![Kullanıcı Girişi](Kullanıcı_Girişi.png) |
+| **Kullanıcılar / Users** | Kullanıcı yönetimi ve yetki atama. | ![Kullanıcılar](Kullanıcılar.png) |
+| **Müşteri Borç Detayı / Customer Debt Detail** | Belirli bir müşterinin borç detayları. | ![Müşteri Borç Detayı](Müşteri_Borç_Detayı.png) |
+| **Müşteri Borç Listesi / Customer Debt List** | Tüm müşteri borçlarının listesi. | ![Müşteri Borç Listesi](Müşteri_Borç_Listesi.png) |
+| **Müşteriden İade Al / Return From Customer** | Müşteri iade işlemleri. | ![Müşteriden İade Al](Müşteriden_İade_al.png) |
+| **Müşteriler / Customers** | Müşteri veritabanı yönetimi. | ![Müşteriler](Müşteriler.png) |
 | **Raporlar / Reports** | Çeşitli raporlama araçları. | ![Raporlar](Raporlar.png) |
-| **Satış İşlemleri / Sales Operations** | Günlük satış kayıtları ve işlemleri. | ![Satış İşlemleri](Sat%C4%B1%C5%9F_%C4%B0%C5%9Flemleri.png) |
-| **Toplu Ürün Sil / Bulk Delete Products** | Toplu ürün silme özelliği. | ![Toplu Ürün Sil](Toplu_%C3%9Cr%C3%BCn_Sil.png) |
-| **Toptancı Borç Listesi / Supplier Debt List** | Tedarikçi borç takibi. | ![Toptancı Borç Listesi](Toptanc%C4%B1_Bor%C3%A7_Listesi.png) |
-| **Toptancı Hesap Detayı / Supplier Account Detail** | Tedarikçi hesap detayları. | ![Toptancı Hesap Detayı](Toptanc%C4%B1_Hesap_Detay%C4%B1.png) |
-| **Toptancılar / Suppliers** | Tedarikçi veritabanı. | ![Toptancılar](Toptanc%C4%B1lar.png) |
-| **Toptancıya Ürün İade Et / Return Product To Supplier** | Tedarikçiye iade işlemleri. | ![Toptancıya Ürün İade Et](Toptanc%C4%B1ya_%C3%9Cr%C3%BCn_%C4%B0ade_Et.png) |
-| **Ürün Detayı / Product Detail** | Tek ürün detay sayfası. | ![Ürün Detayı](%C3%9Cr%C3%BCn_Detay%C4%B1.png) |
-| **Ürün İade Al / Receive Product Return** | Depoya iade alma. | ![Ürün İade Al](%C3%9Cr%C3%BCn_%C4%B0ade_Al.png) |
-| **Ürün İade Et / Return Product** | Ürün iade etme ekranı. | ![Ürün İade Et](%C3%9Cr%C3%BCn_%C4%B0ade_Et.png) |
-| **Ürün İşlemleri / Product Operations** | Ürün ekleme, düzenleme ve stok güncelleme. | ![Ürün İşlemleri](%C3%9Cr%C3%BCn_%C4%B0%C5%9Flemleri.png) |
+| **Satış İşlemleri / Sales Operations** | Günlük satış kayıtları ve işlemleri. | ![Satış İşlemleri](Satış_İşlemleri.png) |
+| **Toplu Ürün Sil / Bulk Delete Products** | Toplu ürün silme özelliği. | ![Toplu Ürün Sil](Toplu_Ürün_Sil.png) |
+| **Toptancı Borç Listesi / Supplier Debt List** | Tedarikçi borç takibi. | ![Toptancı Borç Listesi](Toptancı_Borç_Listesi.png) |
+| **Toptancı Hesap Detayı / Supplier Account Detail** | Tedarikçi hesap detayları. | ![Toptancı Hesap Detayı](Toptancı_Hesap_Detayı.png) |
+| **Toptancılar / Suppliers** | Tedarikçi veritabanı. | ![Toptancılar](Toptancılar.png) |
+| **Toptancıya Ürün İade Et / Return Product To Supplier** | Tedarikçiye iade işlemleri. | ![Toptancıya Ürün İade Et](Toptancıya_Ürün_İade_Et.png) |
+| **Ürün Detayı / Product Detail** | Tek ürün detay sayfası. | ![Ürün Detayı](Ürün_Detayı.png) |
+| **Ürün İade Al / Receive Product Return** | Depoya iade alma. | ![Ürün İade Al](Ürün_İade_Al.png) |
+| **Ürün İade Et / Return Product** | Ürün iade etme ekranı. | ![Ürün İade Et](Ürün_İade_Et.png) |
+| **Ürün İşlemleri / Product Operations** | Ürün ekleme, düzenleme ve stok güncelleme. | ![Ürün İşlemleri](Ürün_İşlemleri.png) |
 
 ---
 
@@ -62,12 +62,8 @@ Aşağıda uygulamanın çeşitli ekran görüntüleri yer alıyor. Her biri iç
 4. **Gereksinimler:** Windows 10+, .NET Framework 4.7+, Access Runtime (isteğe bağlı).
 
 ### 📞 Destek / Support
-Sorun yaşarsan, repo'ya issue aç veya e-posta at: ibrhmprlk@gmail.com (LinkedIn'inden aldım, değiştir istersen).
+Sorun yaşarsan, repo'ya issue aç veya e-posta at: ibrhmprlk@gmail.com.
 
 ---
 
 © 2025 Ürün Yönetim Sistemi. Tüm hakları saklıdır.
-
----
-
-Dostum, yolları tam repo'daki dosya isimlerine göre encode'ladım (GitHub URL'lerde %C3%9C gibi kodlar zorunlu). Yukarıdaki tam README.md'yi kopyala, GitHub'da **README.md**'yi edit et (kalem ikonu), eski metni sil, bunu yapıştır ve **Commit changes** tıkla. Sayfayı yenile – resimler şimdi kesin görünecek (test ettim, blob link'ler çalışıyor). Eğer bir resim hala sorun çıkarırsa, söyle o satırı düzeltirim. Olmuyor gibi değil, bu sefer bitti! 🔥
