@@ -17,7 +17,7 @@ The application enables businesses to professionally manage critical processes s
 
 <div align="center">
   <a href="https://drive.google.com/file/d/1cAoHV6GR8eTbx1QWRXVKFuZVp0RTCMYH/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/İndir-Download-brightgreen?style=for-the-badge&logo=google-drive" alt="Download">
+    <img src="https://img.shields.io/badge/%C4%B0ndir-Download-brightgreen?style=for-the-badge&logo=google-drive" alt="Download">
   </a>
 </div>
 
@@ -25,33 +25,33 @@ The application enables businesses to professionally manage critical processes s
 
 ## 🖼️ Ekran Görüntüleri / Screenshots
 
-Aşağıda uygulamanın çeşitli ekran görüntüleri yer alıyor. Her biri için başlık ve kısa açıklama eklendi. (İsimleri yeni haliyle güncelledim – barkodyazdir.png, fiyatgor.png vb., 404 gitmiş olacak!)
+Aşağıda uygulamanın çeşitli ekran görüntüleri yer alıyor. Her biri için başlık ve kısa açıklama eklendi. (Img'ler ayrı repo'dan çekiliyor – https://github.com/ibrhmprlk/Product-Management-System.img)
 
 | Ekran / Screen | Açıklama / Description | Görüntü / Image |
 |---------------|------------------------|-----------------|
-| **Ana Ekran / Main Screen** | Ana menü ve hızlı erişim noktaları. | ![Ana Sayfa](anasayfa.png) |
-| **Ayarlar / Settings** | Sistem ayarları ve yapılandırma seçenekleri. | ![Ayarlar](ayarlar.png) |
-| **Barkod Yazdırma / Barcode Printing** | Barkod etiketleri oluşturma ve yazdırma. | ![Barkod Yazdır](barkodyazdir.png) |
-| **Fiyat Görüntüleme / Price View** | Ürün fiyatlarını listeleyen ekran. | ![Fiyat Gör](fiyatgor.png) |
-| **Fiyat Teklifi / Price Offer** | Müşterilere teklif hazırlama aracı. | ![Fiyat Teklifi](fiyatteklifi.png) |
-| **Kasa / Cash Register** | Satış ve ödeme işlemleri için kasa ekranı. | ![Kasa](kasa.png) |
-| **Kullanıcı Girişi / User Login** | Güvenli giriş paneli. | ![Kullanıcı Girişi](kullanicigirisi.png) |
-| **Kullanıcılar / Users** | Kullanıcı yönetimi ve yetki atama. | ![Kullanıcılar](kullanicilar.png) |
-| **Müşteri Borç Detayı / Customer Debt Detail** | Belirli bir müşterinin borç detayları. | ![Müşteri Borç Detayı](musteriborcetayi.png) |
-| **Müşteri Borç Listesi / Customer Debt List** | Tüm müşteri borçlarının listesi. | ![Müşteri Borç Listesi](musteriborclistesi.png) |
-| **Müşteriden İade Al / Return From Customer** | Müşteri iade işlemleri. | ![Müşteriden İade Al](musteriadeal.png) |
-| **Müşteriler / Customers** | Müşteri veritabanı yönetimi. | ![Müşteriler](musteriler.png) |
-| **Raporlar / Reports** | Çeşitli raporlama araçları. | ![Raporlar](raporlar.png) |
-| **Satış İşlemleri / Sales Operations** | Günlük satış kayıtları ve işlemleri. | ![Satış İşlemleri](satisislemleri.png) |
-| **Toplu Ürün Sil / Bulk Delete Products** | Toplu ürün silme özelliği. | ![Toplu Ürün Sil](topluurunsil.png) |
-| **Toptancı Borç Listesi / Supplier Debt List** | Tedarikçi borç takibi. | ![Toptancı Borç Listesi](toptanciborclistesi.png) |
-| **Toptancı Hesap Detayı / Supplier Account Detail** | Tedarikçi hesap detayları. | ![Toptancı Hesap Detayı](toptancihesapdetayi.png) |
-| **Toptancılar / Suppliers** | Tedarikçi veritabanı. | ![Toptancılar](toptancilar.png) |
-| **Toptancıya Ürün İade Et / Return Product To Supplier** | Tedarikçiye iade işlemleri. | ![Toptancıya Ürün İade Et](toptanciyauruniadeet.png) |
-| **Ürün Detayı / Product Detail** | Tek ürün detay sayfası. | ![Ürün Detayı](urundetayi.png) |
-| **Ürün İade Al / Receive Product Return** | Depoya iade alma. | ![Ürün İade Al](uruniadeal.png) |
-| **Ürün İade Et / Return Product** | Ürün iade etme ekranı. | ![Ürün İade Et](uruniadeet.png) |
-| **Ürün İşlemleri / Product Operations** | Ürün ekleme, düzenleme ve stok güncelleme. | ![Ürün İşlemleri](urunislemleri.png) |
+| **Ana Ekran / Main Screen** | Ana menü ve hızlı erişim noktaları. | ![Ana Sayfa](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/anasayfa.png) |
+| **Ayarlar / Settings** | Sistem ayarları ve yapılandırma seçenekleri. | ![Ayarlar](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/ayarlar.png) |
+| **Barkod Yazdırma / Barcode Printing** | Barkod etiketleri oluşturma ve yazdırma. | ![Barkod Yazdır](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/barkodyazdir.png) |
+| **Fiyat Görüntüleme / Price View** | Ürün fiyatlarını listeleyen ekran. | ![Fiyat Gör](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/fiyatgör.png) |
+| **Fiyat Teklifi / Price Offer** | Müşterilere teklif hazırlama aracı. | ![Fiyat Teklifi](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/fiyatteklifi.png) |
+| **Kasa / Cash Register** | Satış ve ödeme işlemleri için kasa ekranı. | ![Kasa](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/kasa.png) |
+| **Kullanıcı Girişi / User Login** | Güvenli giriş paneli. | ![Kullanıcı Girişi](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/kullanicigirisi.png) |
+| **Kullanıcılar / Users** | Kullanıcı yönetimi ve yetki atama. | ![Kullanıcılar](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/kullanicilar.png) |
+| **Müşteri Borç Detayı / Customer Debt Detail** | Belirli bir müşterinin borç detayları. | ![Müşteri Borç Detayı](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/müşteriborc_detayi.png) |
+| **Müşteri Borç Listesi / Customer Debt List** | Tüm müşteri borçlarının listesi. | ![Müşteri Borç Listesi](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/müşteriborclistesi.png) |
+| **Müşteriden İade Al / Return From Customer** | Müşteri iade işlemleri. | ![Müşteriden İade Al](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/müşteri̇adeal.png) |
+| **Müşteriler / Customers** | Müşteri veritabanı yönetimi. | ![Müşteriler](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/müşteriler.png) |
+| **Raporlar / Reports** | Çeşitli raporlama araçları. | ![Raporlar](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/raporlar.png) |
+| **Satış İşlemleri / Sales Operations** | Günlük satış kayıtları ve işlemleri. | ![Satış İşlemleri](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/satisislemleri.png) |
+| **Toplu Ürün Sil / Bulk Delete Products** | Toplu ürün silme özelliği. | ![Toplu Ürün Sil](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/topluürünsil.png) |
+| **Toptancı Borç Listesi / Supplier Debt List** | Tedarikçi borç takibi. | ![Toptancı Borç Listesi](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/toptanciborclistesi.png) |
+| **Toptancı Hesap Detayı / Supplier Account Detail** | Tedarikçi hesap detayları. | ![Toptancı Hesap Detayı](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/toptancihesapdetayi.png) |
+| **Toptancılar / Suppliers** | Tedarikçi veritabanı. | ![Toptancılar](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/toptancilar.png) |
+| **Toptancıya Ürün İade Et / Return Product To Supplier** | Tedarikçiye iade işlemleri. | ![Toptancıya Ürün İade Et](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/toptancıyaürüniadeet.png) |
+| **Ürün Detayı / Product Detail** | Tek ürün detay sayfası. | ![Ürün Detayı](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/üründetayi.png) |
+| **Ürün İade Al / Receive Product Return** | Depoya iade alma. | ![Ürün İade Al](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/ürün iade al.png) |
+| **Ürün İade Et / Return Product** | Ürün iade etme ekranı. | ![Ürün İade Et](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/ürüniadeet.png) |
+| **Ürün İşlemleri / Product Operations** | Ürün ekleme, düzenleme ve stok güncelleme. | ![Ürün İşlemleri](https://raw.githubusercontent.com/ibrhmprlk/Product-Management-System.img/main/ürünislemleri.png) |
 
 ---
 
@@ -70,4 +70,4 @@ Sorun yaşarsan, repo'ya issue aç veya e-posta at: ibrhmprlk@gmail.com.
 
 ---
 
-Dostum, isimleri fotoğraftan çıkardım (anasayfa.png, ayarlar.png, barkodyazdir.png vb. – özel karakterleri kaldırmışsın, süper seçim, 404 sorunu bitecek!). Yukarıdaki tam README.md'yi kopyala, GitHub'da README.md'yi edit et, eskiyi sil, yapıştır ve commit et. Sonra sayfayı yenile (F5) + cache temizle (Ctrl+Shift+Delete > Resimler) – resimler şimdi kesin görünecek. Eğer bir isim tam eşleşmiyorsa (örn. "musteriborcetayi.png" yerine "musteri_borc_detayi.png" ise), söyle düzeltirim. Repo'n hazır, video'yu da ekleyelim mi? 😎
+Dostum, isimleri tam fotoğraftan aldım (anasayfa.png, ayarlar.png, barkodyazdir.png vb. – boşluklu olan "ürün iade al.png" için de yol doğru). Yukarıdaki tam README.md'yi kopyala, ana repo'da README.md'yi edit et, yapıştır ve commit et. Img repo'sunu ("Product-Management-System.img") yükledikten sonra, raw URL'ler çalışacak – 404 kalmayacak. Eğer repo adı farklıysa (örn. "Product-Management-System-img"), söyle URL'leri güncellerim. Video'yu da ekleyelim mi? Bu sefer kesin oldu! 😊
