@@ -27,34 +27,6 @@ The application enables businesses to professionally manage critical processes s
 
 Albüm linki: [Ürün Ekran Görüntüleri Galerisi / Product Screenshots Gallery](https://imgur.com/a/CWsarlk)
 
-Aşağıda albümdeki ekranlar için kısa açıklamalar (sırayla eşleşiyor):
-
-| Ekran / Screen | Açıklama / Description |
-|---------------|------------------------|
-| **Ana Ekran / Main Screen** | Ana menü ve hızlı erişim noktaları. |
-| **Ayarlar / Settings** | Sistem ayarları ve yapılandırma seçenekleri. |
-| **Barkod Yazdırma / Barcode Printing** | Barkod etiketleri oluşturma ve yazdırma. |
-| **Fiyat Görüntüleme / Price View** | Ürün fiyatlarını listeleyen ekran. |
-| **Fiyat Teklifi / Price Offer** | Müşterilere teklif hazırlama aracı. |
-| **Kasa / Cash Register** | Satış ve ödeme işlemleri için kasa ekranı. |
-| **Kullanıcı Girişi / User Login** | Güvenli giriş paneli. |
-| **Kullanıcılar / Users** | Kullanıcı yönetimi ve yetki atama. |
-| **Müşteri Borç Detayı / Customer Debt Detail** | Belirli bir müşterinin borç detayları. |
-| **Müşteri Borç Listesi / Customer Debt List** | Tüm müşteri borçlarının listesi. |
-| **Müşteriden İade Al / Return From Customer** | Müşteri iade işlemleri. |
-| **Müşteriler / Customers** | Müşteri veritabanı yönetimi. |
-| **Raporlar / Reports** | Çeşitli raporlama araçları. |
-| **Satış İşlemleri / Sales Operations** | Günlük satış kayıtları ve işlemleri. |
-| **Toplu Ürün Sil / Bulk Delete Products** | Toplu ürün silme özelliği. |
-| **Toptancı Borç Listesi / Supplier Debt List** | Tedarikçi borç takibi. |
-| **Toptancı Hesap Detayı / Supplier Account Detail** | Tedarikçi hesap detayları. |
-| **Toptancılar / Suppliers** | Tedarikçi veritabanı. |
-| **Toptancıya Ürün İade Et / Return Product To Supplier** | Tedarikçiye iade işlemleri. |
-| **Ürün Detayı / Product Detail** | Tek ürün detay sayfası. |
-| **Ürün İade Al / Receive Product Return** | Depoya iade alma. |
-| **Ürün İade Et / Return Product** | Ürün iade etme ekranı. |
-| **Ürün İşlemleri / Product Operations** | Ürün ekleme, düzenleme ve stok güncelleme. |
-
 ---
 
 ### 📞 Destek / Support
