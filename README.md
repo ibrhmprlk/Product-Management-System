@@ -69,5 +69,3 @@ Sorun yaşarsan, repo'ya issue aç veya e-posta at: ibrhmprlk@gmail.com.
 © 2025 Ürün Yönetim Sistemi. Tüm hakları saklıdır.
 
 ---
-
-Dostum, isimleri tam fotoğraftan aldım (anasayfa.png, ayarlar.png, barkodyazdir.png vb. – boşluklu olan "ürün iade al.png" için de yol doğru). Yukarıdaki tam README.md'yi kopyala, ana repo'da README.md'yi edit et, yapıştır ve commit et. Img repo'sunu ("Product-Management-System.img") yükledikten sonra, raw URL'ler çalışacak – 404 kalmayacak. Eğer repo adı farklıysa (örn. "Product-Management-System-img"), söyle URL'leri güncellerim. Video'yu da ekleyelim mi? Bu sefer kesin oldu! 😊
