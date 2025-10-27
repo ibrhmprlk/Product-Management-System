@@ -22,7 +22,7 @@ The application enables businesses to professionally manage critical processes s
 
 ## 🖼️ Ekran Görüntüleri / Screenshots
 
-Albüm linki / Album link: [Ürün Ekran Görüntüleri Galerisi / Product Screenshots Gallery](https://imgur.com/a/CWsarlk)
+Albüm linki / Album link: [Ürün Ekran Görüntüleri Galerisi / Product Screenshots Gallery](https://imgur.com/a/jVF7XZX)
 
 ---
 
