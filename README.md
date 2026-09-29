@@ -16,7 +16,7 @@ The application enables businesses to professionally manage critical processes s
 
 ---
 
-📦 Kurulum Dosyası (.exe) / Installation File (.exe): [🔗 İndir / Download](https://drive.google.com/file/d/1CJpZAZP_qXJU9tCoDnHIEfbBpNKbk7l0/view?usp=drive_link)
+📦 Kurulum Dosyası (.exe) / Installation File (.exe): [🔗 İndir / Download](https://drive.google.com/file/d/16MbBCKRq31Av_cTLL1ghAouzz-uf9L2Q/view?usp=drive_link)
 
 
 ---
